@@ -1,1 +1,1 @@
-https://quiz-app-react-mini-project.netlify.app/
+https://quiz-app-react-mini-project.vercel.app/
